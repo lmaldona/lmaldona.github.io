@@ -4,10 +4,8 @@ title: "Publications"
 classes: wide
 ---
 
-If you have problems accessing any of these publications, please [contact](/contact) me.
+## Journal articles
 
-## Monograph
+#### 2022
 
-XXXX3
-
-
+Canales, A., & Maldonado, L. (2023). Do teachers compensate for or compound disparities in academic achievement?. *International Journal of Educational Research*. doi: [10.1016/j.ijer.2023.102138](https://doi.org/10.1016/j.ijer.2023.102138)
