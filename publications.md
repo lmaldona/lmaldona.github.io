@@ -14,7 +14,7 @@ classes: wide
 
 4. Madariaga, L., Nussbaum, M., Burq, I., Marañon, F., Salazar, D., Maldonado, L., Alarcon, C., and Naranjo, M. (2017). Online Survey: A National Study with School Principals. *Computer in Human Behavior*, Vol.74: 35-44. doi: [10.1016/j.chb.2017.03.067](https://doi.org/10.1016/j.chb.2017.03.067)
 
-5. Maldonado, L., Kronmueller, E., and Gutierrez, I. (2016). Estrategia para la Inferencia Causal y Planificacion de Estudios Observacionales en las Ciencias Sociales: el Caso de Chaiten Post Erupcien del 2008. *Revista de Ciencia Politica (RCP)*, Vol.36, 3: [797-827.](https://ojs.uc.cl/index.php/rcp/issue/view/360)
+5. Maldonado, L., Kronmueller, E., and Gutierrez, I. (2016). Estrategia para la Inferencia Causal y Planificacion de Estudios Observacionales en las Ciencias Sociales: el Caso de Chaiten Post Erupción del 2008. *Revista de Ciencia Politica (RCP)*, Vol.36, 3: [797-827.](https://ojs.uc.cl/index.php/rcp/issue/view/360)
 
 6. Maldonado, L., Prieto, J., and Lay, S. (2016). Las Dinámicas de Pobreza en Chile durante el Periodo 2006-2009. *Serie Temas de la Agenda*, No 87, [Centro UC de Políticas Publicas.](https://politicaspublicas.uc.cl/publicacion/las-dinamicas-de-la-pobreza-en-chile-durante-el-periodo-2006-2009/)
 
