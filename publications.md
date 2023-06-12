@@ -43,3 +43,6 @@ classes: wide
 18. Maldonado, L. and Prieto, J. (2015). Determinantes de la Dinámica de la Pobreza en Chile y el Rol de la Persistencia Temporal: Análisis de la Encuesta Panel Casen 2006-2009 con Métodos de Historia de Eventos. *Economia y Politica*, 2(2), 5-39. doi: [10.15691/07194714.2015.005](http://economiaypolitica.cl/index.php/eyp/article/view/26)
 
 19. Huneeus, C., and Maldonado, L. (2003). Demócratas y nostálgicos del antiguo régimen. Los apoyos a la democracia en Chile. *Revista Española de Investigaciones Sociológicas*, 103(3), [9-49.](https://reis.cis.es/REIS/jsp/REIS.jsp?opcion=revistas&numero=103) 
+
+
+
