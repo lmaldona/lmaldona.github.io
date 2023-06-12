@@ -12,7 +12,7 @@ classes: wide
 
 3. Iturra, J., Castillo, J. C., Maldonado, L., and Rufs, C. (2023). La Percepción de Desigualdad Económica y su Influencia sobre la Justificación de las Diferencias de Ingreso Legítimas. *Estudios Sociológicos*, Vol. 41, Núm. 122, 309-352. doi: [10.24201/es.2023v41n122.2260](http://doi.org/10.24201/es.2023v41n122.2260)
 
-4. Breznau, N., Rinke, E. M., Wuttke, A., (185 authors), Maldonado, L. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. *Proceedings of the National Academy of Sciences*, 119(44)e2203150119. doi:[](https://doi.org/10.1073/pnas.2203150119)
+4. Breznau, N., Rinke, E. M., Wuttke, A., (185 authors), Maldonado, L. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. *Proceedings of the National Academy of Sciences*, 119(44)e2203150119. doi:[10.1073/pnas.2203150119](https://doi.org/10.1073/pnas.2203150119)
 
 5. Maldonado, L. and Canales, A.(2022). La Paradoja de la Redistribución en el Chile Actual. *Revista de Sociología*. Vol.37, 1, 74-88. doi: [10.5354/0719-529X.2022.68150](https://doi.org/10.5354/0719-529X.2022.68150)
 
