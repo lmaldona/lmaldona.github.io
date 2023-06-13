@@ -43,3 +43,20 @@ classes: wide
 18. Maldonado, L. and Prieto, J. (2015). Determinantes de la Dinámica de la Pobreza en Chile y el Rol de la Persistencia Temporal: Análisis de la Encuesta Panel Casen 2006-2009 con Métodos de Historia de Eventos. *Economia y Politica*, 2(2), 5-39. doi: [10.15691/07194714.2015.005](http://economiaypolitica.cl/index.php/eyp/article/view/26)
 
 19. Huneeus, C., and Maldonado, L. (2003). Demócratas y nostálgicos del antiguo régimen. Los apoyos a la democracia en Chile. *Revista Española de Investigaciones Sociológicas*, 103(3), [9-49.](https://reis.cis.es/REIS/jsp/REIS.jsp?opcion=revistas&numero=103) 
+
+
+## Book chapters
+
+3. Maldonado, L. and Ayala, M. C. (2020) ”Redistributive Preferences in Contemporary Brazil.” en S. Lopez-Cariboni et al. (Eds). Political Economy of BRIC Countries. Volume 3: Political Economy of Informality in BRIC Countries. World Scientific Publishing. Singapore.
+
+2. Maldonado, L., Prieto, J. and Feres, J. C. (2018) ”The Working Poor in Chile during the Period 1990-2013” en H. Lohmann and I. Marx (Eds). Edward Elgar Handbook of Research on In-Work Poverty. Cheltenham, UK.
+
+1. Maldonado, L. and Geraldo, P. (2017) “Fixed Effects Regression and Effect Heterogeneity: An Illustration Using a Causal Inference Perspective” en M. Giesselmann, K. Golsh, H. Lohmann, and A. Schmidt-Catran (Eds). Lebensbedingungen in Deutschland in der Längsschnittperspective. Springer VS.
+
+## Other publications
+
+3. Maldonado, L. (2012) Helping the Poor in Latin America: Three Studies on Public Trans- fers, Social Services, and Poverty in Different Institutional Contexts. PhD thesis. University of Cologne, Cologne, Germany.
+
+2. Maldonado, L. (2012) ”Data Analysis Using Regression and Multilevel/Hierarchical Mod- els of Andrew Gelman and Jennifer Hill, 2007.” Persona y Sociedad, Vol. XXVI, 1. Book Review.
+
+1. Irarrazaval, I., Lopez de Lerida, J., Maldonado, L., Margotta, O., Ortuzar, D., Torche, A. (2011) “Ingreso Etico Familiar: Reflexiones en torno a la Nueva Politica Social para la Poblacion en Situacion de Extrema Pobreza.” Apuntes Legislativos. Vol.(14), 2-11.
