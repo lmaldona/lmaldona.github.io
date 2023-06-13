@@ -47,16 +47,16 @@ classes: wide
 
 ## Book chapters
 
-3. Maldonado, L. and Ayala, M. C. (2020) ”Redistributive Preferences in Contemporary Brazil.” en S. Lopez-Cariboni et al. (Eds). Political Economy of BRIC Countries. Volume 3: Political Economy of Informality in BRIC Countries. World Scientific Publishing. Singapore.
+1. Maldonado, L. and Ayala, M. C. (2020) ”Redistributive Preferences in Contemporary Brazil.” en S. Lopez-Cariboni et al. (Eds). Political Economy of BRIC Countries. Volume 3: Political Economy of Informality in BRIC Countries. World Scientific Publishing. Singapore.
 
 2. Maldonado, L., Prieto, J. and Feres, J. C. (2018) ”The Working Poor in Chile during the Period 1990-2013” en H. Lohmann and I. Marx (Eds). Edward Elgar Handbook of Research on In-Work Poverty. Cheltenham, UK.
 
-1. Maldonado, L. and Geraldo, P. (2017) “Fixed Effects Regression and Effect Heterogeneity: An Illustration Using a Causal Inference Perspective” en M. Giesselmann, K. Golsh, H. Lohmann, and A. Schmidt-Catran (Eds). Lebensbedingungen in Deutschland in der Längsschnittperspective. Springer VS.
+3. Maldonado, L. and Geraldo, P. (2017) “Fixed Effects Regression and Effect Heterogeneity: An Illustration Using a Causal Inference Perspective” en M. Giesselmann, K. Golsh, H. Lohmann, and A. Schmidt-Catran (Eds). Lebensbedingungen in Deutschland in der Längsschnittperspective. Springer VS.
 
 ## Other publications
 
-3. Maldonado, L. (2012) Helping the Poor in Latin America: Three Studies on Public Trans- fers, Social Services, and Poverty in Different Institutional Contexts. PhD thesis. University of Cologne, Cologne, Germany.
+1. Maldonado, L. (2012) Helping the Poor in Latin America: Three Studies on Public Trans- fers, Social Services, and Poverty in Different Institutional Contexts. PhD thesis. University of Cologne, Cologne, Germany.
 
 2. Maldonado, L. (2012) ”Data Analysis Using Regression and Multilevel/Hierarchical Mod- els of Andrew Gelman and Jennifer Hill, 2007.” Persona y Sociedad, Vol. XXVI, 1. Book Review.
 
-1. Irarrazaval, I., Lopez de Lerida, J., Maldonado, L., Margotta, O., Ortuzar, D., Torche, A. (2011) “Ingreso Etico Familiar: Reflexiones en torno a la Nueva Politica Social para la Poblacion en Situacion de Extrema Pobreza.” Apuntes Legislativos. Vol.(14), 2-11.
+3. Irarrazaval, I., Lopez de Lerida, J., Maldonado, L., Margotta, O., Ortuzar, D., Torche, A. (2011) “Ingreso Etico Familiar: Reflexiones en torno a la Nueva Politica Social para la Poblacion en Situacion de Extrema Pobreza.” Apuntes Legislativos. Vol.(14), 2-11.
