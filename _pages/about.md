@@ -15,7 +15,7 @@ I’m an associate professor in the Department of Sociology at the Pontificia Un
 
 
 
-**Affiliations**
+Affiliations
 
 Instituto de Sociología, Pontificia Universidad Católica de Chile
 
