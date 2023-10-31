@@ -6,7 +6,7 @@ classes: wide
 
 ## Journal articles
 
-1. Castillo, J.C., Iturra, J., Maldonado, L., Meneses, F., and Atria, J. (2023). A multidimensional approach for measuring meritocratic beliefs: Advantages, limitations and alternatives to the ISSP social inequality survey. *International Journal of Sociology*. doi: [(https://www.tandfonline.com/doi/full/10.1080/00207659.2023.2274712)]
+1. Castillo, J.C., Iturra, J., Maldonado, L., Meneses, F., and Atria, J. (2023). A multidimensional approach for measuring meritocratic beliefs: Advantages, limitations and alternatives to the ISSP social inequality survey. *International Journal of Sociology*. doi: [10.1080/00207659.2023.2274712](https://www.tandfonline.com/doi/full/10.1080/00207659.2023.2274712)
    
 2. Canales, A., & Maldonado, L. (2023). Do teachers compensate for or compound disparities in academic achievement?. *International Journal of Educational Research*. doi: [10.1016/j.ijer.2023.102138](https://doi.org/10.1016/j.ijer.2023.102138)
 
