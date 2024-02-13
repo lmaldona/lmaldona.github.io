@@ -6,10 +6,10 @@ classes: wide
 
 ## Journal articles
 
-1. Ayala, M.C., Webb, A., Maldonado, L., Canales, A., and Cascallar, E. (2024). Teacher’s Social Desirability Bias and Migrant Students: A Study on Explicit and Implicit Prejudices with a List Experiment. *Social Science Research*. Accepted for publication. 
+1. Ayala, M.C., Webb, A., Maldonado, L., Canales, A., and Cascallar, E. (2024). Teacher’s Social Desirability Bias and Migrant Students: A Study on Explicit and Implicit Prejudices with a List Experiment. *Social Science Research*. doi: [10.1016/j.ssresearch.2024.102990](https://www.sciencedirect.com/science/article/pii/S0049089X24000127?via%3Dihub)
 
 2. Castillo, J.C., Iturra, J., Maldonado, L., Meneses, F., and Atria, J. (2023). A multidimensional approach for measuring meritocratic beliefs: Advantages, limitations and alternatives to the ISSP social inequality survey. *International Journal of Sociology*. doi: [10.1080/00207659.2023.2274712](https://www.tandfonline.com/doi/full/10.1080/00207659.2023.2274712)
-   
+
 3. Canales, A., & Maldonado, L. (2023). Do teachers compensate for or compound disparities in academic achievement?. *International Journal of Educational Research*. doi: [10.1016/j.ijer.2023.102138](https://doi.org/10.1016/j.ijer.2023.102138)
 
 4. Maldonado, L., Molinos-Senante, M., Quiero-Bastias, M., & Atal, G. (2023). Willingness to pay for improving water supply continuity in case of climatic extreme natural events: an empirical approach for Chile. *Urban Water Journal*, 20(1), 74-88. doi: [10.1080/1573062X.2022.2153702](https://doi.org/10.1080/1573062X.2022.2153702)
