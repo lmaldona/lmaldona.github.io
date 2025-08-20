@@ -61,6 +61,12 @@ classes: wide
 
 3. Maldonado, L. and Geraldo, P. (2017) “Fixed Effects Regression and Effect Heterogeneity: An Illustration Using a Causal Inference Perspective” en M. Giesselmann, K. Golsh, H. Lohmann, and A. Schmidt-Catran (Eds). Lebensbedingungen in Deutschland in der Längsschnittperspective. Springer VS.
 
+## Work in progress
+
+1. Sanchez, F. and Maldonado, L. (2024). "Protests and Electoral Repercussions under Authoritarianism: The Case of Pinochet’s Chile"
+
+2. Maldonado, L., Castillo, J. C., Olivos, F., Iturra, J., and Atria, J. (2024) ”Does information about economic inequality affect opportunity beliefs? Results from survey experiments in contemporary Chile”.
+
 ## Other publications
 
 1. Maldonado, L. (2012) Helping the Poor in Latin America: Three Studies on Public Trans- fers, Social Services, and Poverty in Different Institutional Contexts. PhD thesis. University of Cologne, Cologne, Germany.
