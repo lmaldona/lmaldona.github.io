@@ -63,9 +63,9 @@ classes: wide
 
 ## Work in progress
 
-1. Sanchez, F. and Maldonado, L. (2024). "Protests and Electoral Repercussions under Authoritarianism: The Case of Pinochet’s Chile"
+1. Sanchez, F. and Maldonado, L. (2025). "Protests and Electoral Repercussions under Authoritarianism: The Case of Pinochet’s Chile"
 
-2. Maldonado, L., Castillo, J. C., Olivos, F., Iturra, J., and Atria, J. (2024) ”Does information about economic inequality affect opportunity beliefs? Results from survey experiments in contemporary Chile”.
+2. Maldonado, L., Castillo, J. C., Olivos, F., Iturra, J., and Atria, J. (2025) ”Does information about economic inequality affect opportunity beliefs? Results from survey experiments in contemporary Chile”.
 
 ## Other publications
 
