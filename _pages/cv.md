@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-CV [here](https://lmaldona.github.io/CV_0825b.pdf)
+CV [here](https://lmaldona.github.io/CV_0825c.pdf)
