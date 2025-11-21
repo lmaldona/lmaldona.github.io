@@ -6,7 +6,7 @@ classes: wide
 
 ## Journal articles
 
-1. Cepeda, F., Maldonado, L., & Molinos-Senante, M. (2025). Households' Willingness to Accept Compensation for Water Supply Interruptions Caused by Wildfires: Evidence from Valparaíso, Chile. *Climate Risk Management*. Volume 50, 100765. doi:[10.1016/j.crm.2025.100765(https://www.sciencedirect.com/science/article/pii/S2212096325000798?via%3Dihub)
+1. Cepeda, F., Maldonado, L., & Molinos-Senante, M. (2025). Households' Willingness to Accept Compensation for Water Supply Interruptions Caused by Wildfires: Evidence from Valparaíso, Chile. *Climate Risk Management*. Volume 50, 100765. doi:[10.1016/j.crm.2025.100765](https://www.sciencedirect.com/science/article/pii/S2212096325000798?via%3Dihub)
    
 2. Breznau, N., Rinke, E. M., Wuttke, A., Hung H.V. Nguyen, (185 authors), Maldonado, L.(2025). The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science*, 12(3), 241038. doi: [10.1098/rsos.241038](https://royalsocietypublishing.org/doi/full/10.1098/rsos.241038)
        
