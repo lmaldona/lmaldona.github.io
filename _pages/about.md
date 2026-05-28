@@ -20,7 +20,3 @@ I’m an associate professor in the Department of Sociology at the Pontificia Un
 Instituto de Sociología, Pontificia Universidad Católica de Chile
 
 Evidence in Governance and Politics (EGAP) network
-
-Centro de Estudios de Conflicto y Cohesión Social (COES)
-
-Centro de Investigación para la Gestión Integrada del Riesgo de Desastres (CIGIDEN)
