@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I’m an associate professor in the Department of Sociology at the Pontificia Universidad Catolica of Chile. My primary research interests include economic inequality and disasters. I am also interested in quantitative methodology, particularly in applying rigorous causal inference based on experimental and observational research designs to substantive social problems.
+I’m an associate professor in the Department of Sociology at the Pontificia Universidad Catolica of Chile. My primary research interests include economic and political inequality. I am also interested in quantitative methodology, particularly in applying rigorous causal inference based on experimental and observational research designs to substantive social problems.
 
 
 
