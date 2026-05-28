@@ -65,9 +65,11 @@ classes: wide
 
 ## Work in progress
 
-1. Sanchez, F. and Maldonado, L. (2025). "Protests and Electoral Repercussions under Authoritarianism: The Case of Pinochet’s Chile"
+1. Maldonado, L., Bargsted, M. and Kalergis, S. (2026). "Persisting Changes in Political Trust: Evidence with Panel Data".
+   
+2. Sanchez, F. and Maldonado, L. (2025). "Protests and Electoral Repercussions under Authoritarianism: The Case of Pinochet’s Chile"
 
-2. Maldonado, L., Castillo, J. C., Olivos, F., Iturra, J., and Atria, J. (2025) ”Does information about economic inequality affect opportunity beliefs? Results from survey experiments in contemporary Chile”.
+3. Maldonado, L., Castillo, J. C., Olivos, F., Iturra, J., and Atria, J. (2025) ”Does information about economic inequality affect opportunity beliefs? Results from survey experiments in contemporary Chile”.
 
 ## Other publications
 
